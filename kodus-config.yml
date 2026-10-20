@@ -1,0 +1,4 @@
+suggestionControl:
+  severityLevelFilter: critical
+kodyLearningExcludedReviewers:
+  - '337323120'
